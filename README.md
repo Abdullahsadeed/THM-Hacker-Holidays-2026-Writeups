@@ -31,6 +31,7 @@ THM-Hacker-Holidays-2026-Writeups/
 ├── Day-6-Overheard-at-Breakfast
 ├── Day-7-Do-Not-Disturb
 ├── Day-8-Towel-on-the-Sunbed
+├── Day-9-CryptoCabana
 └── ...
 ```
 
@@ -48,6 +49,7 @@ THM-Hacker-Holidays-2026-Writeups/
 | Day 06 | ✅ |
 | Day 07 | ✅ |
 | Day 08 | ✅ |
+| Day 09 | ✅ |
 
 > New days will be added as the event continues.
 
