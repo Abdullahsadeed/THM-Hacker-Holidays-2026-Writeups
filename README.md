@@ -33,6 +33,8 @@ THM-Hacker-Holidays-2026-Writeups/
 ├── Day-8-Towel-on-the-Sunbed
 ├── Day-9-CryptoCabana
 ├── Day-10-The-Hollow-Shell
+├── Day-11-Infinity-Pool
+├── Day-12-After-Hours
 └── ...
 ```
 
@@ -52,6 +54,8 @@ THM-Hacker-Holidays-2026-Writeups/
 | Day 08 | ✅ |
 | Day 09 | ✅ |
 | Day 10 | ✅ |
+| Day 11 | ✅ |
+| Day 12 | ✅ |
 
 > New days will be added as the event continues.
 
