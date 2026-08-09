@@ -32,6 +32,7 @@ THM-Hacker-Holidays-2026-Writeups/
 ├── Day-7-Do-Not-Disturb
 ├── Day-8-Towel-on-the-Sunbed
 ├── Day-9-CryptoCabana
+├── Day-10-The-Hollow-Shell
 └── ...
 ```
 
@@ -50,6 +51,7 @@ THM-Hacker-Holidays-2026-Writeups/
 | Day 07 | ✅ |
 | Day 08 | ✅ |
 | Day 09 | ✅ |
+| Day 10 | ✅ |
 
 > New days will be added as the event continues.
 
