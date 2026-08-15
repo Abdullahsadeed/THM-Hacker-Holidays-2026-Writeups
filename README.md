@@ -35,6 +35,7 @@ THM-Hacker-Holidays-2026-Writeups/
 ├── Day-10-The-Hollow-Shell
 ├── Day-11-Infinity-Pool
 ├── Day-12-After-Hours
+├── Day-13-The-Guestbook
 └── ...
 ```
 
@@ -56,6 +57,7 @@ THM-Hacker-Holidays-2026-Writeups/
 | Day 10 | ✅ |
 | Day 11 | ✅ |
 | Day 12 | ✅ |
+| Day 13 | ✅ |
 
 > New days will be added as the event continues.
 
